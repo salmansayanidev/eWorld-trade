@@ -1193,7 +1193,7 @@ nav.mob-tab-nav {
     background-color: var(--btn-bg);
     top: 0;
     left: -100%;
-    display: flex;
+    display: flex !important;
     align-items: center;
     z-index: 99;
     width: 50%;
