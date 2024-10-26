@@ -844,6 +844,9 @@ html {
   border-radius: 5px;
   border: none;
 }
+nav.mob-tab-nav {
+  display: none;
+}
 
 /* responsive start */
 
