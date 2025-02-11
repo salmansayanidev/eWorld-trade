@@ -852,7 +852,7 @@ nav.mob-tab-nav {
 
 @media (max-width: 1610px) {
   .top-nav-list {
-    gap: 30px;  
+    gap: 18px;  
   }
   .user-profile-area {
     gap: 8px;
